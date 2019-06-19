@@ -1,2 +1,2 @@
-# STAT-5443
+# STAT5443
 Computational Statistics
